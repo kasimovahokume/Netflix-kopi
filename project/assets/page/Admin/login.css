@@ -1,0 +1,34 @@
+
+body{
+    background: #1D1D1D;
+    color: #fff;
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    min-height: 100vh;
+}
+
+.container-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.login-title{
+    color: #C3C8D4;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 5rem; 
+    letter-spacing: -2%;
+    font-family: "Numans", sans-serif;
+}
+/* .header{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(/project/assets/images/girisfoto.jpeg);
+    background-size: cover;
+    background-position: center;
+    padding: 10px 8%;
+    position: relative;
+} */
